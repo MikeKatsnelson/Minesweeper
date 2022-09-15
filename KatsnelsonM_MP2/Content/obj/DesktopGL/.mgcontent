@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/board_easy.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/board_hard.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/board_med.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/GameOver_PlayAgain.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/GameOver_Results.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/GameOver_TryAgain.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/GameOver_WinResults.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/GameOverBoardShadow.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Backgrounds/HUDBar.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/1.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/2.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/3.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/4.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/5.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/6.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/7.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/8.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Check.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Clear_Dark.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Clear_Light.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/DropDown.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/EasyButton.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Exit.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/explode.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Explode2.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/flag.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/GameOver_NoTime.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/HardButton.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Instructions.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/MedButton.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Mine1.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Mine2.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Mine3.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Mine4.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Mine5.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Mine6.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Mine7.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Mine8.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/SoundOff.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/SoundOn.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Sprites/Watch.png</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Music/Lose.mp3</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Music/Win.mp3</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Sound Effects/ClearFlag.wav</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Sound Effects/LargeClear.wav</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Sound Effects/Mine.wav</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Sound Effects/mixkit-underground-explosion-impact-echo-1686.wav</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Sound Effects/PlaceFlag.wav</File>
+    <File>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Sound Effects/SmallClear.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

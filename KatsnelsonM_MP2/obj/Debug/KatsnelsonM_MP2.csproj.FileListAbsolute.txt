@@ -1,0 +1,59 @@
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.csprojAssemblyReference.cache
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.csproj.CoreCompileInputs.cache
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\KatsnelsonM_MP2.exe.config
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\KatsnelsonM_MP2.exe
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\KatsnelsonM_MP2.pdb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Animation2D.dll
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\MonoGame.Framework.dll
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\MonoGame.Framework.xml
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.csproj.CopyComplete
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.exe
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.pdb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Backgrounds\board_easy.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.csprojAssemblyReference.cache
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.csproj.CoreCompileInputs.cache
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.exe
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.pdb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Backgrounds\board_easy.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\KatsnelsonM_MP2.exe.config
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\KatsnelsonM_MP2.exe
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\KatsnelsonM_MP2.pdb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Animation2D.dll
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\MonoGame.Framework.dll
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\MonoGame.Framework.xml
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\obj\Debug\KatsnelsonM_MP2.csproj.CopyComplete
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine1.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine2.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine3.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine4.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine5.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine6.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine7.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine8.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\1.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\2.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\3.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\4.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\5.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\6.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\7.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\8.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine1.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine2.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine3.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine4.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine5.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine6.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine7.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Mine8.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\1.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\2.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\3.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\4.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\5.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\6.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\7.xnb
+C:\Users\mikek\Desktop\School\ICS4U\Assignments\MP2\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\8.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Clear_Dark.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Content\Images\Sprites\Clear_Light.xnb
+D:\School\Grade 12\KatsnelsonM_MP2\KatsnelsonM_MP2\bin\Debug\Helper.dll

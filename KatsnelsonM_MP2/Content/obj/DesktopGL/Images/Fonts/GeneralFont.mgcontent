@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Images/Fonts/File.spritefont</SourceFile>
+  <SourceTime>2022-04-24T12:59:10.1804989-04:00</SourceTime>
+  <DestFile>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/bin/Debug/Content/Images/Fonts/GeneralFont.xnb</DestFile>
+  <DestTime>2022-05-01T01:30:45.0850606-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-04-24T12:59:08.2020498-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-04-24T12:59:08.2020498-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

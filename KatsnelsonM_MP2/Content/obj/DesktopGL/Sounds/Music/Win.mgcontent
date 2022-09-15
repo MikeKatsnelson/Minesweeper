@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/Content/Sounds/Music/Win.mp3</SourceFile>
+  <SourceTime>2022-04-13T01:55:00-04:00</SourceTime>
+  <DestFile>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/bin/Debug/Content/Sounds/Music/Win.xnb</DestFile>
+  <DestTime>2022-05-06T23:15:57.697194-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-04-24T12:59:08.2020498-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-04-24T12:59:08.2020498-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/School/Grade 12/KatsnelsonM_MP2/KatsnelsonM_MP2/bin/Debug/Content/Sounds/Music/Win.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
